@@ -1,4 +1,3 @@
-Got it 👍 — here’s the updated **README.md** tailored specifically for your file **`start.c`**:
 
 ---
 
