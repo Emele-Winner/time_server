@@ -126,5 +126,3 @@ copies of the Software, and to permit persons to whom the Software is furnished 
 
 ---
 
-Would you like me to include a **“Compiling and running example output” section** (showing terminal output when it runs)?
-It makes the README look great on GitHub.
